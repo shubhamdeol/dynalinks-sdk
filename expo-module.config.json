@@ -1,0 +1,9 @@
+{
+  "platforms": ["apple", "android", "web"],
+  "apple": {
+    "modules": ["ExpoDynalinksSdkModule"]
+  },
+  "android": {
+    "modules": ["expo.modules.dynalinkssdk.ExpoDynalinksSdkModule"]
+  }
+}
